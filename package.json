@@ -1,26 +1,27 @@
 {
-  "name": "it461",
-  "version": "1.0.0",
-  "description": "it461",
-  "main": "index.js",
-  "scripts": {
-    "dev": "parcel src/index.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chef-danny-d/it461.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chef-danny-d/it461/issues"
-  },
-  "homepage": "https://github.com/chef-danny-d/it461#readme",
-  "dependencies": {
-    "parcel": "^1.12.4"
-  },
-  "devDependencies": {
-    "sass": "^1.26.9"
-  }
+    "name": "it461",
+    "version": "1.0.0",
+    "description": "it461",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/*.html",
+        "build": "parcel build src/*.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chef-danny-d/it461.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chef-danny-d/it461/issues"
+    },
+    "homepage": "https://github.com/chef-danny-d/it461#readme",
+    "dependencies": {
+        "parcel": "^1.12.4"
+    },
+    "devDependencies": {
+        "sass": "^1.26.9"
+    }
 }
