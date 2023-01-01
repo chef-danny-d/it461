@@ -19,7 +19,7 @@
     },
     "homepage": "https://github.com/chef-danny-d/it461#readme",
     "dependencies": {
-        "parcel": "^1.12.4"
+        "parcel": "^2.8.2"
     },
     "devDependencies": {
         "sass": "^1.26.9"
